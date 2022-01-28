@@ -1,18 +1,12 @@
 # Signal-Generator
 A comprehensive signal generator for various functions and signals using MATLAB
 
-![image](https://user-images.githubusercontent.com/41492875/151634711-8b96d9d7-97a5-481f-a0fb-b1fb1fb57fed.png)
+![Screenshot (368)](https://user-images.githubusercontent.com/41492875/151634779-2ffbf48e-24fd-4827-a61f-8d53894618ea.png)
 
-![image](https://user-images.githubusercontent.com/41492875/151634721-9ada440c-8e77-408b-ae72-9a42beab65d3.png)
+![Screenshot (365)](https://user-images.githubusercontent.com/41492875/151634781-ca40bfb1-9b77-4252-acff-0612b821ed24.png)
 
-![image](https://user-images.githubusercontent.com/41492875/151634726-4ece5f01-081c-47d0-bfd8-59c187c3c305.png)
+![Screenshot (364)](https://user-images.githubusercontent.com/41492875/151634784-f7ceca0e-b9c8-4f6e-b7b0-0c9f2457f2e3.png)
 
-![image](https://user-images.githubusercontent.com/41492875/151634728-532eb65e-ed72-472c-8813-de365a6f47a6.png)
+![Screenshot (358)](https://user-images.githubusercontent.com/41492875/151634819-96023ad0-ad56-4652-a426-add52c17e959.png)
 
-![image](https://user-images.githubusercontent.com/41492875/151634730-0d02c505-61f6-4982-8584-64be68fb9933.png)
-
-![image](https://user-images.githubusercontent.com/41492875/151634734-161d5681-151f-4b96-b6c1-f0563c4f7c6f.png)
-
-![image](https://user-images.githubusercontent.com/41492875/151634739-b498121b-6031-4f3c-ae78-ccc03deda088.png)
-
-![image](https://user-images.githubusercontent.com/41492875/151634744-1c1057b6-6345-40be-af46-5ebed1aec91f.png)
+![Screenshot (359)](https://user-images.githubusercontent.com/41492875/151634813-64044aa8-5e2a-404e-9b71-073aedba240a.png)
