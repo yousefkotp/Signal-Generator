@@ -1,5 +1,7 @@
 # Signal-Generator
-A comprehensive signal generator for various functions and signals using MATLAB
+A comprehensive signal generator and manipulator for various functions and signals using MATLAB
+
+![Screenshot (350)](https://user-images.githubusercontent.com/41492875/151634879-03e47f2d-bc8f-4124-994b-125df9aea42f.png)
 
 ![Screenshot (368)](https://user-images.githubusercontent.com/41492875/151634779-2ffbf48e-24fd-4827-a61f-8d53894618ea.png)
 
